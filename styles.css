@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#baea15;
+	text-align:center;
+}
+.heading{
+	text-decoration:underline;
+}
+.container p{
+	border:2px solid black;
+	padding:20px
+}
+.container ol{
+	border:2px solid black;
+	padding:20px
+}
+.container ul{
+	border:2px solid black;
+	padding:20px
+}
